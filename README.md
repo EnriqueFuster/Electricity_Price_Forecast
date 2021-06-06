@@ -1,2 +1,2 @@
 # Electricity_Price_Forecast
-Forecast of the average electricity price form the Spanish electricity market by an ARIMA model
+Average electricity price forecast from the Spanish electricity market with an ARIMA model
